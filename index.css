@@ -74,7 +74,7 @@
 /* For tablets and below (max-width: 768px) */
 @media (max-width: 768px) {
     #nav1 {
-        flex-direction: column;
+        flex-direction: row;
         height: auto;
         padding: 10px;
 
