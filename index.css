@@ -189,10 +189,11 @@
 }
 
 #office {
-    width: 100%;
+    width: 90%;
     height: auto;
     max-height: 400px;
     object-fit: cover;
+    margin-left: 40px;
 }
 
 #about-sec2 {
